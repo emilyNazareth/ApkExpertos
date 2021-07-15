@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
 
-        webView.loadUrl("https://turistainteligente.000webhostapp.com/");
+        webView.loadUrl("https://ucrexpertos.000webhostapp.com/");
     }
 }
